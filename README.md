@@ -1,4 +1,6 @@
-# Hello 
-I am Abdulrahman
+# Hello my name is Abdulrahman
+
 Software Engineering student at KFUPM
-learning Java and Python
+
+Hobby:
+-Programming

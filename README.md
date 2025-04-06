@@ -1,4 +1,4 @@
-# Hello my name is Abdulrahman
+# Abdulrahman Alqahtani
 
 Software Engineering student at KFUPM
 
